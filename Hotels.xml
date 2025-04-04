@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
     <Phone>480-968-8885</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E.7th St</Street>
       <City>Tempe</City>
@@ -15,7 +15,7 @@
   <Hotel Rating="4.1">
     <Name>Element Scottsdale at SkySong</Name>
     <Phone>480-361-0000</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>1345</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -26,7 +26,7 @@
   <Hotel Rating="3.8">
     <Name>Red Lion Inn &amp; Suites Phoenix/Tempe – ASU</Name>
     <Phone>480-675-9799</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>1429</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Tempe</City>
@@ -37,7 +37,7 @@
   <Hotel Rating="4.3">
     <Name>Hotel Valley Ho</Name>
     <Phone>480-248-2000</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>6950</Number>
       <Street>E Main St</Street>
       <City>Scottsdale</City>
@@ -48,7 +48,7 @@
   <Hotel Rating="4.0">
     <Name>Embassy Suites–Tempe</Name>
     <Phone>480-467-2908</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>4400</Number>
       <Street>S Rural Rd</Street>
       <City>Tempe</City>
@@ -59,7 +59,7 @@
   <Hotel Rating="3.5">
     <Name>Quality Suites</Name>
     <Phone>480-947-3711</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>1635</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Tempe</City>
@@ -70,7 +70,7 @@
   <Hotel Rating="4.2">
     <Name>The Saguaro</Name>
     <Phone>480-308-1100</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>4000</Number>
       <Street>N Drinkwater Blvd</Street>
       <City>Scottsdale</City>
@@ -81,7 +81,7 @@
   <Hotel>
     <Name>Residence Inn Marriott</Name>
     <Phone>480-967-1818</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>510</Number>
       <Street>S Forest Ave</Street>
       <City>Tempe</City>
@@ -92,7 +92,7 @@
   <Hotel Rating="3.9">
     <Name>Hospitality Suites</Name>
     <Phone>480-949-5115</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>409</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -103,7 +103,7 @@
   <Hotel Rating="4.0">
     <Name>Hilton Garden Inn Scottsdale Old Town</Name>
     <Phone>480-481-0400</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>7324</Number>
       <Street>E Indian School Rd</Street>
       <City>Scottsdale</City>
@@ -114,7 +114,7 @@
   <Hotel Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
+    <Address NearstAirport="Phoenix Sky Harbor International">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
