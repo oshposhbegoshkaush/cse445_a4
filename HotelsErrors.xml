@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
-  <Hotel Rating="4.2">
-    <Name>Westin</Name>
-    <Name>Duplicate Name</Name>  <!-- Error 5: Two names for one hotel -->
-    <Phone>800-937-8461</Phone>
-    <Phone>480-968-8885</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>11</Number>
-      <Street>E.7th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <!-- Error 3: Missing Phone element -->
-    <Name>Element Scottsdale at SkySong</Name>
-    <Address>  <!-- Error 2: Missing required NearestAirport attribute -->
-      <Number>1345</Number>
-      <Street>N Scottsdale Rd</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85257</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.8">
-    <Name>Red Lion Inn &amp; Suites Phoenix/Tempe – ASU</Name>
-    <Phone>480-675-9799</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
-      <Number>1429</Number>
-      <Street>N Scottsdale Rd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    <!-- Error 4: Missing closing Address tag (intentionally left open) -->
-  </Hotel>
-  <Hotel Rating="4.3">
-    <Name>Hotel Valley Ho</Name>
-    <Phone>480-248-2000</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International">
-      <Number>6950</Number>
-      <Street>E Main St</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85251</Zip>
-    </Address>
-  </Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Name>Duplicate Name</Name>
+		<!-- Error 5: Two names for one hotel -->
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<!-- Error 3: Missing Phone element -->
+		<Name>Element Scottsdale at SkySong</Name>
+		<Address>
+			<!-- Error 2: Missing required NearestAirport attribute -->
+			<Number>1345</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85257</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Red Lion Inn &amp; Suites Phoenix/Tempe – ASU</Name>
+		<Phone>480-675-9799</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International">
+			<Number>1429</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<!-- Error 4: Missing closing Address tag (intentionally left open) -->
+		</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Hotel Valley Ho</Name>
+		<Phone>480-248-2000</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International">
+			<Number>6950</Number>
+			<Street>E Main St</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
 </Hotel>
